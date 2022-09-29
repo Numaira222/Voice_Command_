@@ -78,5 +78,6 @@ function speak(){
 
 function clearCanvas(){
  background("pink");
+ 
 }
 
