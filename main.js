@@ -76,3 +76,7 @@ function speak(){
     speak_daata = "";
 }
 
+function clearCanvas(){
+ background("pink");
+}
+
